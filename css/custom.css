@@ -1,0 +1,25 @@
+.article-meta .level-item {
+  margin-right: 1rem;
+}
+.article-tags {
+  display: flex;
+  align-items: center;
+}
+.article-tags .mr-2 {
+  margin-right: 0.5rem;
+}
+.article-more {
+  display: flex;
+  align-items: center;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  color: #333;
+  text-decoration: none;
+}
+.article-more:hover {
+  background-color: #e5e5e5;
+  border-color: #ccc;
+  color: #333;
+}
